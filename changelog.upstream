@@ -1,3 +1,31 @@
+commit 81344ec9ab73e84423d0e4139dfa978c7ff6727a
+Merge: 140a374 0999931
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Dec 14 04:51:43 2018 -0500
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 0999931324698cab58bf76285e1eca2cfe25fc04
+Merge: 140a374 e174542
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Dec 14 04:51:16 2018 -0500
+
+    Merge pull request #3 from Algernon-01/master
+    
+    Small fix for buster.
+
+commit e174542e094cc15935a80e70fe5e9a5f90a83ae9
+Author: Algernon-01 <33966997+Algernon-01@users.noreply.github.com>
+Date:   Thu Dec 13 19:36:56 2018 +0000
+
+    Small fix for buster.
+
+commit 140a3742493eedebb082f151e9cba789a5859b8d
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Aug 27 16:40:09 2018 +0000
+
+    bumped changelog version
+
 commit 6807d95d003b1e933a81eb98e6dd0ead7426efeb
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Tue Aug 21 05:18:31 2018 +0800
