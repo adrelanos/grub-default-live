@@ -1,3 +1,17 @@
+commit 424e4aae13b1c936141af98784934090ec566022
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Apr 19 11:04:35 2019 +0000
+
+    set kernel parameter nopersistence
+    
+    https://forums.whonix.org/t/whonix-live-mode-amnesia-amnesic-non-persistent-anti-forensics/3894/126
+
+commit 06f24e8ba268dbe66ec3ec219e7bc0b2ccbd4339
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Apr 6 12:05:22 2019 +0000
+
+    bumped changelog version
+
 commit 183ba256cacf6a0d909bd1fb74ce2b47e1e6ee4e
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Thu Apr 4 05:50:59 2019 -0400
