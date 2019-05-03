@@ -1,11 +1,11 @@
 # grub live boot menu entry #
 
-Allows booting the system in live mode. Meaning, no persistent modifications
-will be written to the disk. All changes stay in RAM.
-
-Adds a grub live boot menu entry.
+Adds a grub live boot menu entry as first option.
 
 Existing grub boot entries stay unmodified.
+
+Allows booting the system in live mode. Meaning, no persistent modifications
+will be written to the disk. All changes stay in RAM.
 
 No claims are made with regard to anti forensics.
 ## How to install `grub-default-live` using apt-get ##
