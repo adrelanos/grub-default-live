@@ -3,4 +3,4 @@
 
 version=3
 opts=filenamemangle=s/.+\/v?(.*)\.tar\.gz/<project>-$1.tar.gz/ \
-  https://github.com/Whonix/grub-live/tags .*/v?(\d[\d\.]+)\.tar\.gz
+  https://github.com/Whonix/grub-default-live/tags .*/v?(\d[\d\.]+)\.tar\.gz

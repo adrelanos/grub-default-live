@@ -8,7 +8,7 @@ Adds a grub live boot menu entry.
 Existing grub boot entries stay unmodified.
 
 No claims are made with regard to anti forensics.
-## How to install `grub-live` using apt-get ##
+## How to install `grub-default-live` using apt-get ##
 
 1\. Add [Whonix's Signing Key](https://www.whonix.org/wiki/Whonix_Signing_Key).
 
@@ -28,15 +28,15 @@ echo "deb http://deb.whonix.org buster main" | sudo tee /etc/apt/sources.list.d/
 sudo apt-get update
 ```
 
-5\. Install `grub-live`.
+5\. Install `grub-default-live`.
 
 ```
-sudo apt-get install grub-live
+sudo apt-get install grub-default-live
 ```
 
 ## How to Build deb Package ##
 
-Replace `apparmor-profile-torbrowser` with the actual name of this package with `grub-live` and see [instructions](https://www.whonix.org/wiki/Dev/Build_Documentation/apparmor-profile-torbrowser).
+Replace `apparmor-profile-torbrowser` with the actual name of this package with `grub-default-live` and see [instructions](https://www.whonix.org/wiki/Dev/Build_Documentation/apparmor-profile-torbrowser).
 
 ## Contact ##
 
@@ -45,4 +45,4 @@ Replace `apparmor-profile-torbrowser` with the actual name of this package with 
 
 ## Payments ##
 
-`grub-live` requires [payments](https://www.whonix.org/wiki/Payments) to stay alive!
+`grub-default-live` requires [payments](https://www.whonix.org/wiki/Payments) to stay alive!
