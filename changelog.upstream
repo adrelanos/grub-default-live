@@ -1,3 +1,41 @@
+commit 2805b22c5bc0ff4b91a1bb38e6b731b472d7a042
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri May 3 11:06:44 2019 +0000
+
+    readme
+
+commit 64e8230b3790e036a03ea3de07a4fa47bcb8538b
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri May 3 11:06:00 2019 +0000
+
+    description
+
+commit b3d766d01e2a6960d828f95b619dd909490b63bb
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri May 3 10:56:53 2019 +0000
+
+    update
+
+commit d5e75715c7535947d5dd2b771e6bb9f7e4d79d2b
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri May 3 06:21:53 2019 -0400
+
+    rename etc/grub.d/11_linux_live to etc/grub.d/07_linux_live
+    
+    so live entry gets processed by update-grub before non-live
+
+commit a340a85c3d0297541fd412bc31baf3bc06a61a38
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri May 3 06:20:50 2019 -0400
+
+    fork grub-live package and rename to grub-default-live
+
+commit f1c592bc5b8ffebba04a8f06b396bda04f717982
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Apr 23 12:12:12 2019 +0000
+
+    bumped changelog version
+
 commit 424e4aae13b1c936141af98784934090ec566022
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Fri Apr 19 11:04:35 2019 +0000
