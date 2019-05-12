@@ -1,3 +1,21 @@
+commit fd92b00402b3136b277f6009f50237f17400aa9b
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun May 12 02:58:43 2019 -0400
+
+    update path to pre.bsh
+
+commit 72cee1d54a06bed0847aec2cbce8066f8932d74a
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu May 9 21:33:59 2019 -0400
+
+    Provides: grub-live-boot
+
+commit 9a74ed376158758ee11efc1c13628da2508fc9bf
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri May 3 11:25:03 2019 +0000
+
+    bumped changelog version
+
 commit 2805b22c5bc0ff4b91a1bb38e6b731b472d7a042
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Fri May 3 11:06:44 2019 +0000
