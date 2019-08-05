@@ -14,7 +14,7 @@ Standards-Version: 4.3.0
 Package: grub-default-live
 Provides: grub-live-boot
 Architecture: all
-Depends: live-boot, live-config-systemd, live-boot-initramfs-tools, live-tools, ${misc:Depends}
+Depends: live-boot, live-boot-initramfs-tools, live-tools, ${misc:Depends}
 Description: optional default grub live boot menu entry
  Adds a grub live boot menu entry as first option.
  .
