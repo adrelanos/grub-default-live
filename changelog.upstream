@@ -1,3 +1,15 @@
+commit bac2f59c8e2add073580566d76240ae90582dff2
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Jan 21 02:54:35 2020 -0500
+
+    Provides: grub-live-boot, boot-live
+
+commit 8d3a9f07f6738332bb2fe5d12e97af88504f5da0
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Dec 6 09:31:02 2019 -0500
+
+    bumped changelog version
+
 commit af30ce8d4f87b937a22f55452dad4493f4950f0b
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Thu Dec 5 15:48:44 2019 -0500
